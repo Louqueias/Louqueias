@@ -1,4 +1,7 @@
-## Hi there 👋
+Olá, me chamo Lucas.
+Sou aluno de Engenharia da Computação no Cesupa
+Gosto de jogos e estou começando a minha jornada na programação.
+Espero me aprofundar melhor na área e até mesmo trabalhar nela. 
 
 <!--
 **Louqueias/Louqueias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
